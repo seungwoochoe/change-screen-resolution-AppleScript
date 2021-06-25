@@ -1,4 +1,4 @@
-# macOS-display-scale-modifier
+# macOS display scale modifier
 
 This applescript can be used to change scale of your external display.
 You can use this script on Automator.app to make your own Applications or Quick Actions.
